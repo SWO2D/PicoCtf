@@ -1,6 +1,6 @@
-# Current score: 5340 | 23 captured flags 🏴‍☠️
-# Solved: 
-  - All of general skills problems.
+# Current score: 5340 | 23 captured flags.
+# 🏴‍☠️ Flags captured: 
+  - All of general skills flags.
   - Cryptography: 4
   - Reverse Engineering: 9
   - Forensics: 10
