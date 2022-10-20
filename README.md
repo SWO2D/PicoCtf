@@ -1,4 +1,4 @@
-# Current score: 5340 | 23 captured flags &#128681
+# Current score: 5340 | 23 captured flags 🏴‍☠️
 # Solved: 
   - All of general skills problems.
   - 4 problems in Cryptography.
